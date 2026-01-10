@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Ruchika 👋
 
-<!--
-**Ruchika940/Ruchika940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst with hands-on experience in **SQL, Power BI, and Python (Basics)**  
+🏭 Currently working in **Manufacturing Engineering**, applying analytics to solve real business problems
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- **SQL** (Joins, Aggregations, Subqueries, CASE WHEN)
+- **Power BI** (Dashboards, DAX Basics)
+- **Python** (Pandas,Matplotlib, Data Analysis)
+- **Excel** (Advanced formulas, Data Cleaning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Projects
+- 🍕 **PizzaHut Sales Analysis** (SQL)
+- 📈 **Sales & Operations Dashboard** (Power BI)
+- 🐍 **Data Analysis using Python**
+
+### 🎯 Career Interest
+**Data Analyst | Business Analyst | Analytics Consultant (0–2 yrs)**
+
+📫 Connect with me on LinkedIn
