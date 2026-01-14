@@ -18,3 +18,4 @@
 **Data Analyst | Business Analyst | Analytics Consultant (0–2 yrs)**
 
 📫 Connect with me on LinkedIn
+https://www.linkedin.com/in/ruchika-raj-0670651a7/
